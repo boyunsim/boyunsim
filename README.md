@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=boyun's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=speech&color=_#00AB78&height=300&section=header&text=boyun's%20github&fontSize=90)
 <!--
 **boyunsim/boyunsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
