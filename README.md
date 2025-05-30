@@ -1,5 +1,5 @@
 ## Hi there 👋
-![제목을-입력해주세요_-001](https://github.com/user-attachments/assets/8497670f-0374-42a9-8ed0-80343edc75b2)
+![githubprofile](https://github.com/user-attachments/assets/2ab53d80-6d2f-4968-a11c-4a0468b05bc6)
 
 <!--
 **boyunsim/boyunsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
